@@ -7,9 +7,9 @@ body{
 }
 
 .navbar{
-    max-height: 50px; 
+    max-height: 100px; 
 	background-color: white; 
-    font-size: 15px; 
+    font-size: 20px; 
 }
 
 .navigation .navbar-brand{
@@ -26,30 +26,11 @@ body{
 }
 
 .dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:active{
-    background-color:#adc7c4; 
+    background-color:#788a88; 
 }
 
 .nav-link:hover{
-    background-color:#adc7c4;
-}
-
-/* Media Queries */
-/* @media (max-width: 991.98px){
-	.navbar-expand-lg{
-		background-color: #38ab87;
-} */
-
-/* .navbar{
-    max-height: none; 
-    padding: inherit;
-} */
-/* .navbar div{
-    margin: inherit; 
-    background-color: white;  
-} */
-
-.navbar-brand{
-    padding: 10px; 
+    background-color:#f0f4f5;
 }
 
 p{
